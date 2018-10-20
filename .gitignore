@@ -1,0 +1,6 @@
+/.vs
+Debug
+Release
+Release-static
+*.vcxproj.user
+
